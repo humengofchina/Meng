@@ -18,11 +18,11 @@ public_date: 2023-05-20
 
 # 左侧栏菜单
 menu:
-  - [小站首页, '/', 'icon-shouye']
-  - [个人日志, '/log', 'icon-rizhi']
-  - [友情链接, '/link', 'icon-youqinglianjie']
-  - ['关于自己', '/about', 'icon-guanyuwomen']
-  - ['我的工具', '/tools', 'icon-gongju']
+  - [小站首页, 'meng-beta.vercel.app/', 'icon-shouye']
+  - [个人日志, 'meng-beta.vercel.app/log', 'icon-rizhi']
+  - [友情链接, 'meng-beta.vercel.app/link', 'icon-youqinglianjie']
+  - ['关于自己', 'meng-beta.vercel.app/about', 'icon-guanyuwomen']
+  - ['我的工具', 'meng-beta.vercel.app/tools', 'icon-gongju']
 
 # 友情连接：头像、名字、链接
 links:
