@@ -1,39 +1,14 @@
 ---
-title: Hello World
+title: Hello Everyone
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+大家好！这是我的第一篇博客文章，爱发电的猛男妙妙屋欢迎您！您可以按住ctrl D 快速收藏本网站！
+微信公众号名称：爱发电的猛男妙妙屋
+![捕获](https://github.com/humengofchina/Meng/assets/99729216/409d63a0-c10f-4680-a5b7-cd7c9a81855b)
 
-## Quick Start
+我将会在这里分享大学日常生活和阿里云盘的影视资源！
+还请大家多多支持！
 
-### Create a new post
+## 阿里云盘链接
 
-```bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-```bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+爱发电的猛男妙妙屋（阿里云盘）: [点击这里](https://www.aliyundrive.com/s/xGDhq6G4F76)
