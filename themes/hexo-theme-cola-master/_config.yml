@@ -1,20 +1,20 @@
-title: 我的技术与生活——可乐的小站
+title: 爱发电的猛男妙妙屋欢迎您！
 # 左侧栏名字
-author_name: Cola.
+author_name: Humeng
 
 # 左侧栏标签，只能两个
-tag1: 中二
-tag2: 宅
+tag1: 喜欢探索
+tag2: 喜欢学习
 
 # 左侧栏Github连接
-github_url: https://github.com/Aizener
+github_url: https://github.com/humengofchina
 
 # 左侧栏座右铭，分两句
-motto_prev: “花有重开日，人无再少年”
-motto_last: “一个简单普通的男孩”
+motto_prev: 穷则独善其身，达则兼济天下
+motto_last: “一个简简单单普普通通平平庸庸的男孩”
 
 # 小站部署日期（运营时间）
-public_date: 2022-02-16
+public_date: 2023-05-20
 
 # 左侧栏菜单
 menu:
@@ -29,23 +29,23 @@ links:
  - ['https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg', 'Hexo.', 'https://hexo.io/zh-cn/']
 
 # 右侧栏公告
-notice: Hello~大噶好。唔系可乐爱宅着，欢迎你们来到我的博客小站，希望能在这里收获到有用的东西哦！
+notice: 大家好！这里是爱发电的猛男妙妙屋，微信公众号“爱发电的猛男妙妙屋”。在我的blog中，我将会分享一些大学日常生活以及阿里云盘的资源。
 
 # 右侧音乐列表：歌名、作者、链接、封面
 musics:
-  - ['安河桥', '宋冬野', 'http://ting6.yymp3.net:82/new25/songdongye/11.mp3', 'https://img2.baidu.com/it/u=1260056724,1076343118&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500']
-  - ['卡布达', '暂无', 'music/kabuda.mp3', 'https://img2.baidu.com/it/u=705831265,2862720033&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500']
-  # - ['八连杀', '苏三', 'music/八连杀.mp3', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0SWQx6YrNA8lElaG4OOKLkNkNzLO1PflKg&usqp=CAU']
+#   - ['安河桥', '宋冬野', 'http://ting6.yymp3.net:82/new25/songdongye/11.mp3', 'https://img2.baidu.com/it/u=1260056724,1076343118&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500']
+  - ['花海', '周杰伦', 'music/周杰伦 - 花海.mp3']
+  - ['起风了', '吴青峰', 'music/吴青峰 - 起风了.mp3']
 
 # 个人介绍
 likes:
-  - 姓名：杨祥
-  - 年龄：25
+  - 姓名：胡猛
+  - 年龄：20
   - 性别：♂
-  - 家乡：四川省雅安市某小镇
-  - 现居住地：四川省成都市武侯区
-  - 职业：Web前端开发
-  - 喜欢：打游戏，游泳，下象棋
+  - 家乡：河南省周口市商水县
+  - 现居住地：河南省焦作市武陟县
+  - 职业：黄河交通学院交通运输专业的学生
+  - 喜欢：学习，打游戏，学习，打游戏
 
 # 工具配置：封面，标题，介绍，链接
 tools:
@@ -53,7 +53,7 @@ tools:
   - ['https://coke-cola.gitee.io/resume-page/assets/dark-f439b888.jpeg', '在线简历生成器', '一个免费的在线简历生成工具', 'https://coke-cola.gitee.io/resume-page/#/']
 
 # 右侧栏网站信息
-copyright: 蜀ICP备2022005384号-1
+copyright: 豫ICP备2023005384号-1
 
 
 # 是否开启文章评论 Valine:https://valine.js.org/configuration.htm
