@@ -73,5 +73,8 @@ gray: none
 # 日志篇幅超过1000字后隐藏（最大高度为1000px)，1000可为任意数值
 log_text_num: 1000
 
+#主题
+theme: hexo-theme-cola-master
+
 # 版本号
 version: 1.0.2
